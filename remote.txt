@@ -1,2 +1,4 @@
 Hi 
 welcome
+Revert undoing changes
+and it will get back the commit data not delete the comiit history.
